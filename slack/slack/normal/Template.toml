@@ -1,0 +1,5 @@
+[integration]
+list = ["Slack","GitHub"]
+
+[envDesc]
+login = "You slack channel name"
